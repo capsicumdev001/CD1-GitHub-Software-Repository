@@ -1,1 +1,1 @@
-# CD1
+# CD1 (GitHub Software Repository)
